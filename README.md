@@ -28,7 +28,7 @@ The following objectives were set by the researchers to accomplish this:
 
 3. Develop a web application that will allow administrators to view the gathered information and intuitively present the gathered data.
 
-[Back to Table of Contents](#back-to-table-of-contents)
+[Back to Table of Contents](#table-of-contents)
 
 ## Scope and Limitations
 
