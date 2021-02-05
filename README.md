@@ -2,7 +2,7 @@
 
 ## Description
 
-ICTS is an integrated digital contact tracing system that can operate with minimal physical contact, does not heavily rely on the internet for sending data, and can provide usable contact tracing information within a reasonable amount of time.
+ICTS is a **proposed** integrated digital contact tracing system that can operate with minimal physical contact, does not heavily rely on the internet for sending data, and can provide usable contact tracing information within a reasonable amount of time.
 
 ## Table of Contents
 - [1. Objectives](#1-objectives)
