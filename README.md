@@ -78,7 +78,7 @@ For individual registrants using **feature phones**, the following information w
 - First Name
 - Safe Davao ID
 
-[Registering Using Feature Phones](#41-individual-registration)
+[Related: Registering Using Feature Phones](#41-individual-registration)
 
 [Back to Table of Contents](#table-of-contents)
 
