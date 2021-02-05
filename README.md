@@ -5,11 +5,11 @@
 ICTS is an integrated digital contact tracing system that can operate with minimal physical contact, does not heavily rely on the internet for sending data, and can provide usable contact tracing information within a reasonable amount of time.
 
 ## Table of Contents
-- [1. Objectives](#objectives)
-- [2. Scope and Limitations](#scope-and-limitations)
-- [3. Data Collection and Verification](#data-collection-and-verification)
-	- [3.1. Individual Registrants](##individual-registrants)
-	- [3.2. Establishment Registrants](##establishment-registrants)
+- [1. Objectives](#1-objectives)
+- [2. Scope and Limitations](#2-scope-and-limitations)
+- [3. Data Collection and Verification](#3-data-collection-and-verification)
+	- [3.1. Individual Registrants](#31-individual-registrants)
+	- [3.2. Establishment Registrants](#32establishment-registrants)
 
 ## Proponents
 - Achilles C. Macunlay
