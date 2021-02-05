@@ -61,8 +61,7 @@ For individual registrants **using the application**, the following information 
 - Middle Initial
 - Last Name
 - Sex
-- Birth Date
-- First Name
+- Date of Birth
 - City Address (latitude and longitude)
 - Active Mobile Number
 - Active Email
@@ -74,10 +73,11 @@ For individual registrants using **feature phones**, the following information w
 - Middle Initial
 - Last Name
 - Sex
-- Birth Date
+- Date of Birth
 - First Name
 - Safe Davao ID
 
+[Registering Using Feature Phones](#41-individual-registration)
 [Back to Table of Contents](#table-of-contents)
 
 ### 3.2. Establishment Registrants
