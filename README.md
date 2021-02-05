@@ -1,4 +1,4 @@
-# Integrated Contact Tracing System (ICTS) in Davao City
+# A Proposed Integrated Contact Tracing System (ICTS) in Davao City
 
 ## Description
 
