@@ -40,6 +40,8 @@ This study includes the development of a digital wireless system in Davao City. 
 
 Upon the first application startup, registrants will be required to fill up a form asking for their personal information and contact details.
 
+### Individual Registrants
+
 For individual registrants using the application, the following information will be asked in the form:
 
 - First Name
@@ -63,6 +65,10 @@ For individual registrants using non-smartphones, the following information will
 - First Name
 - Safe Davao ID
 
+[Back to Table of Contents](#table-of-contents)
+
+### Establishment Registrants
+
 For establishment registrants, the following information will be asked in the form:
 
 - Establishment Name
@@ -75,6 +81,8 @@ For establishment registrants, the following information will be asked in the fo
 - Establishment Safe Davao ID (Optional)
 
 The Establishment Safe Davao ID is optional since not all establishments are required to register in the city. However, the proposed system creates another ID for all establishments, registered or not in the Safe Davao System for identification. This also widens the coverage of the proposed system.
+
+[Back to Table of Contents](#table-of-contents)
 
 Individual registrants can send their personal information and log data to the system via SMS either through the application or through their default SMS application. Sending personal information and log data through the default SMS application can be done by smartphone users but this feature is more optimized for individuals using dumb phones. Establishment registrants can only send their establishment information and log data via SMS through the developed application.
 
