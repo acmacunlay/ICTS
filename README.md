@@ -9,8 +9,10 @@ ICTS is a **PROPOSED** integrated digital contact tracing system that can operat
 - [2. Scope and Limitations](#2-scope-and-limitations)
 - [3. Data Collection and Verification](#3-data-collection-and-verification)
 	- [3.1. Individual Registrants](#31-individual-registrants)
-	- [3.2. Establishment Registrants](#32establishment-registrants)
+	- [3.2. Establishment Registrants](#32-establishment-registrants)
 - [4. Feature Phones](#4-feature-phones)
+	- [4.1. Individual Registration](#41-individual-registration)
+	- [4.2. Sending Logs](#42-sending-logs)
 
 ## Proponents
 - Achilles C. Macunlay
@@ -41,7 +43,7 @@ This study includes the development of a digital wireless system in Davao City. 
 
 ## 3. Data Collection and Verification
 
-Upon the first application startup, registrants will be required to fill up a form asking for their personal information and contact details. [Individual](#31-individual-registrants) and [Establishment](#32establishment-registrants) registrants have distinct forms. Individual registrants can send their personal information and log data to the system via SMS either through the application or through their default SMS application. *Sending personal information and log data through the default SMS application can be done by smartphone users but this feature is more optimized for individuals using dumb phones.* Establishment registrants can only send their establishment information and log data via SMS through the developed application.
+Upon the first application startup, registrants will be required to fill up a form asking for their personal information and contact details. [Individual](#31-individual-registrants) and [Establishment](#32establishment-registrants) registrants have distinct forms. Individual registrants can send their personal information and log data to the system via SMS either through the application or through their default SMS application. *Sending personal information and log data through the default SMS application can be done by smartphone users but this feature is more optimized for individuals using feature phones.* Establishment registrants can only send their establishment information and log data via SMS through the developed application.
 
 Both registrant types can generate and scan QR codes for creating log data. Individual registrants can generate a QR code both for the developed system and for the Safe Davao System for better integration. The QR code generated for the proposed system contains the Safe Davao ID, health form, and log timestamp data of the individual while the QR code generated for the Safe Davao System contains the same data in Safe Davao IDs. Establishment registrants can only generate QR codes compatible to the Safe Davao System. Once the data scanned from the QR codes are successfully verified, the registrants can choose to send the log data right away or at a later time to the SMS gateway developed by the proponents. The app will automatically store the log data locally if ever the mobile network is down or something went wrong with the device of the registrant.
 
@@ -95,7 +97,9 @@ The Establishment Safe Davao ID is optional since not all establishments are req
 
 ## 4. Feature Phones
 
-**Only individual registrants can use the system using feature phones.** To register in the system, the registrant must send an SMS with this format:
+### 4.1. Individual Registration
+
+**Only individual registrants can use the system using feature phones.** To register in the system, the registrant must send an SMS with the following format:
 
 	Format:
 
@@ -104,3 +108,15 @@ The Establishment Safe Davao ID is optional since not all establishments are req
 	Example:
 
 	<icts/Achilles/C/Macunlay/M/13/12/2000/DQR******>
+
+### 4.2. Sending Logs
+
+For individual registrants sending logs **using feature phones**, they must send an SMS with the following format
+
+	Format:
+
+	<icts/indiviudal_safe_davao_id/establishment_safe_davao_id>
+
+	Example:
+
+	<icts/DQR******/EDQR*******>
