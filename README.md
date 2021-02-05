@@ -5,11 +5,11 @@
 ICTS is an integrated digital contact tracing system that can operate with minimal physical contact, does not heavily rely on the internet for sending data, and can provide usable contact tracing information within a reasonable amount of time.
 
 ## Table of Contents
-- [Objectives](#objectives)
-- [Scope and Limitations](#scope-and-limitations)
-- [Data Collection and Verification](#data-collection-and-verification)
-	- [Individual Registrants](#individual-registrants)
-	- [Establishment Registrants](#establishment-registrants)
+1. [Objectives](#objectives)
+2. [Scope and Limitations](#scope-and-limitations)
+3. [Data Collection and Verification](#data-collection-and-verification)
+	3.1. [Individual Registrants](#individual-registrants)
+	3.2. [Establishment Registrants](#establishment-registrants)
 
 ## Proponents
 - Achilles C. Macunlay
@@ -18,7 +18,7 @@ ICTS is an integrated digital contact tracing system that can operate with minim
 ## Adviser
 - Engr. Aireen Michelle H. Fordaliza, MEng-ECE
 
-## Objectives
+## 1. Objectives
 
 This study aims to create an integrated digital contact tracing system that can operate with minimal physical contact, does not heavily rely on the internet for sending data, and can provide usable contact tracing information within a reasonable amount of time.
 
@@ -32,19 +32,19 @@ The following objectives were set by the researchers to accomplish this:
 
 [Back to Table of Contents](#table-of-contents)
 
-## Scope and Limitations
+## 2. Scope and Limitations
 
 This study includes the development of a digital wireless system in Davao City. It also includes the transmission, processing, and storage of data and the web application that allows administrators to view the stored data in the database. This study, however, does not predict upcoming infections and can only display people who possibly contacted a person but cannot identify on its own who are infected.
 
 [Back to Table of Contents](#table-of-contents)
 
-## Data Collection and Verification
+## 3. Data Collection and Verification
 
 Upon the first application startup, registrants will be required to fill up a form asking for their personal information and contact details.
 
-### Individual Registrants
+### 3.1. Individual Registrants
 
-For individual registrants using the application, the following information will be asked in the form:
+For individual registrants **using the application**, the following information will be asked in the form:
 
 - First Name
 - Middle Initial
@@ -57,7 +57,7 @@ For individual registrants using the application, the following information will
 - Active Email
 - Safe Davao ID
 
-For individual registrants using non-smartphones, the following information will be asked in the form:
+For individual registrants **using non-smartphones**, the following information will be asked in the form:
 
 - First Name
 - Middle Initial
@@ -69,7 +69,7 @@ For individual registrants using non-smartphones, the following information will
 
 [Back to Table of Contents](#table-of-contents)
 
-### Establishment Registrants
+### 3.2. Establishment Registrants
 
 For establishment registrants, the following information will be asked in the form:
 
