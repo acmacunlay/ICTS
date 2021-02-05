@@ -40,7 +40,7 @@ This study includes the development of a digital wireless system in Davao City. 
 
 Upon the first application startup, registrants will be required to fill up a form asking for their personal information and contact details.
 
-For individual registrants, the following information will be asked in the form:
+For individual registrants using the application, the following information will be asked in the form:
 
 - First Name
 - Middle Initial
@@ -51,6 +51,16 @@ For individual registrants, the following information will be asked in the form:
 - City Address (latitude and longitude)
 - Active Mobile Number
 - Active Email
+- Safe Davao ID
+
+For individual registrants using non-smartphones, the following information will be asked in the form:
+
+- First Name
+- Middle Initial
+- Last Name
+- Sex
+- Birth Date
+- First Name
 - Safe Davao ID
 
 For establishment registrants, the following information will be asked in the form:
