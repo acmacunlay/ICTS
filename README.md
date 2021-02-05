@@ -40,7 +40,13 @@ This study includes the development of a digital wireless system in Davao City. 
 
 ## 3. Data Collection and Verification
 
-Upon the first application startup, registrants will be required to fill up a form asking for their personal information and contact details.
+Upon the first application startup, registrants will be required to fill up a form asking for their personal information and contact details. [Individual](#31-individual-registrants) and [Establishment](#32establishment-registrants) registrants have distinct forms. Individual registrants can send their personal information and log data to the system via SMS either through the application or through their default SMS application. Sending personal information and log data through the default SMS application can be done by smartphone users but this feature is more optimized for individuals using dumb phones. Establishment registrants can only send their establishment information and log data via SMS through the developed application.
+
+Both registrant types can generate and scan QR codes for creating log data. Individual registrants can generate a QR code both for the developed system and for the Safe Davao System for better integration. The QR code generated for the proposed system contains the Safe Davao ID, health form, and log timestamp data of the individual while the QR code generated for the Safe Davao System contains the same data in Safe Davao IDs. Establishment registrants can only generate QR codes compatible to the Safe Davao System. Once the data scanned from the QR codes are successfully verified, the registrants can choose to send the log data right away or at a later time to the SMS gateway developed by the proponents. The app will automatically store the log data locally if ever the mobile network is down or something went wrong with the device of the registrant.
+
+When the SMS gateway receives an SMS, it will check first if the contents comply to the format. If the contents does not meet the requirements, it is automatically discarded. If the contents does meet the requirements, it is then checked again if it contains either registrant data or log data. After that, the data is extracted and stored to the gateway database. Lastly, after the extracted data is stored successfully, the gateway notifies the registrants via SMS.
+
+[Back to Table of Contents](#table-of-contents)
 
 ### 3.1. Individual Registrants
 
@@ -83,13 +89,3 @@ For establishment registrants, the following information will be asked in the fo
 - Establishment Safe Davao ID (Optional)
 
 The Establishment Safe Davao ID is optional since not all establishments are required to register in the city. However, the proposed system creates another ID for all establishments, registered or not in the Safe Davao System for identification. This also widens the coverage of the proposed system.
-
-[Back to Table of Contents](#table-of-contents)
-
-Individual registrants can send their personal information and log data to the system via SMS either through the application or through their default SMS application. Sending personal information and log data through the default SMS application can be done by smartphone users but this feature is more optimized for individuals using dumb phones. Establishment registrants can only send their establishment information and log data via SMS through the developed application.
-
-Both registrant types can generate and scan QR codes for creating log data. Individual registrants can generate a QR code both for the developed system and for the Safe Davao System for better integration. The QR code generated for the proposed system contains the Safe Davao ID, health form, and log timestamp data of the individual while the QR code generated for the Safe Davao System contains the same data in Safe Davao IDs. Establishment registrants can only generate QR codes compatible to the Safe Davao System. Once the data scanned from the QR codes are successfully verified, the registrants can choose to send the log data right away or at a later time to the SMS gateway developed by the proponents. The app will automatically store the log data locally if ever the mobile network is down or something went wrong with the device of the registrant.
-
-When the SMS gateway receives an SMS, it will check first if the contents comply to the format. If the contents does not meet the requirements, it is automatically discarded. If the contents does meet the requirements, it is then checked again if it contains either registrant data or log data. After that, the data is extracted and stored to the gateway database. Lastly, after the extracted data is stored successfully, the gateway notifies the registrants via SMS.
-
-[Back to Table of Contents](#table-of-contents)
