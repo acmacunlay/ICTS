@@ -14,7 +14,7 @@ ICTS is an integrated digital contact tracing system that can operate with minim
 ## Adviser
 - Engr. Aireen Michelle H. Fordaliza, MEng-ECE
 
-<a name = "objectives"/>## Objectives
+## Objectives
 
 This study aims to create an integrated digital contact tracing system that can operate with minimal physical contact, does not heavily rely on the internet for sending data, and can provide usable contact tracing information within a reasonable amount of time.
 
