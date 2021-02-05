@@ -26,24 +26,24 @@ Upon the first application startup, registrants will be required to fill up a fo
 
 For individual registrants, the following information will be asked in the form:
 
-	- First Name
-	- Middle Initial
-	- Last Name
-	- Sex
-	- Birth Date
-	- First Name
-	- City Address (latitude and longitude)
-	- Active Mobile Number
-	- Active Email
-	- Safe Davao ID
+- First Name
+- Middle Initial
+- Last Name
+- Sex
+- Birth Date
+- First Name
+- City Address (latitude and longitude)
+- Active Mobile Number
+- Active Email
+- Safe Davao ID
 
 For establishment registrants, the following information will be asked in the form:
 
-	- Establishment Name
-	- Establishment Address (latitude and longitude)
-	- First Name of Contact Person
-	- Middle Initial of Contact Person
-	- Last Name of Contact Person
-	- Active Mobile Number of Contact Person
-	- Active Email of Contact Person
-	- Establishment Safe Davao ID (Optional)
+- Establishment Name
+- Establishment Address (latitude and longitude)
+- First Name of Contact Person
+- Middle Initial of Contact Person
+- Last Name of Contact Person
+- Active Mobile Number of Contact Person
+- Active Email of Contact Person
+- Establishment Safe Davao ID (Optional)
