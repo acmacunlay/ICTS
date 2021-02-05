@@ -89,3 +89,5 @@ For establishment registrants, the following information will be asked in the fo
 - Establishment Safe Davao ID (Optional)
 
 The Establishment Safe Davao ID is optional since not all establishments are required to register in the city. However, the proposed system creates another ID for all establishments, registered or not in the Safe Davao System for identification. This also widens the coverage of the proposed system.
+
+[Back to Table of Contents](#table-of-contents)
