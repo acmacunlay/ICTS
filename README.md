@@ -10,7 +10,7 @@ ICTS is a **PROPOSED** integrated digital contact tracing system that can operat
 - [3. Data Collection and Verification](#3-data-collection-and-verification)
 	- [3.1. Individual Registrants](#31-individual-registrants)
 	- [3.2. Establishment Registrants](#32establishment-registrants)
-- [4. Feature Phones](#feature-phones)
+- [4. Feature Phones](#4-feature-phones)
 
 ## Proponents
 - Achilles C. Macunlay
@@ -97,7 +97,6 @@ The Establishment Safe Davao ID is optional since not all establishments are req
 
 **Only individual registrants can use the system using feature phones.** To register in the system, the registrant must send an SMS with this format:
 
-	'''
 	Format:
 
 	<icts/first_name/middle_initial/last_name/sex/birth_date/birth_month/birth_year/safe_davao_id>
@@ -105,4 +104,3 @@ The Establishment Safe Davao ID is optional since not all establishments are req
 	Example:
 
 	<icts/Achilles/C/Macunlay/M/13/12/2000/DQR******>
-	'''
