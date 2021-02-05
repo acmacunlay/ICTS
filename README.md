@@ -1,6 +1,7 @@
 # Integrated Contact Tracing System (ICTS) in Davao City
 
 ## Description
+- [Objectives](#Objectives)
 
 ICTS is an integrated digital contact tracing system that can operate with minimal physical contact, does not heavily rely on the internet for sending data, and can provide usable contact tracing information within a reasonable amount of time.
 
@@ -13,6 +14,7 @@ ICTS is an integrated digital contact tracing system that can operate with minim
 ## Adviser
 - Engr. Aireen Michelle H. Fordaliza, MEng-ECE
 
+<a name = "Objectives"/>
 ## Objectives
 
 This study aims to create an integrated digital contact tracing system that can operate with minimal physical contact, does not heavily rely on the internet for sending data, and can provide usable contact tracing information within a reasonable amount of time.
@@ -25,10 +27,12 @@ The following objectives were set by the researchers to accomplish this:
 
 3. Develop a web application that will allow administrators to view the gathered information and intuitively present the gathered data.
 
+<a name = "Scope_and_Limitations"/>
 ## Scope and Limitations
 
 This study includes the development of a digital wireless system in Davao City. It also includes the transmission, processing, and storage of data and the web application that allows administrators to view the stored data in the database. This study, however, does not predict upcoming infections and can only display people who possibly contacted a person but cannot identify on its own who are infected.
 
+<a name = "Data_Collection_and_Verification"/>
 ## Data Collection and Verification
 
 Upon the first application startup, registrants will be required to fill up a form asking for their personal information and contact details.
