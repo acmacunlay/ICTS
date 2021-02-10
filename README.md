@@ -14,6 +14,7 @@ Here are ways to download the APK file:
 2. Download the APK file directly from this repository (You can see the ICTS.apk file above).
 
 ## Table of Contents
+
 - [1. Objectives](#1-objectives)
 - [2. Scope and Limitations](#2-scope-and-limitations)
 - [3. Data Collection and Verification](#3-data-collection-and-verification)
@@ -26,6 +27,8 @@ Here are ways to download the APK file:
 - [4. Feature Phones](#4-feature-phones)
 	- [4.1. Individual Registration](#41-individual-registration)
 	- [4.2. Sending Logs](#42-sending-logs)
+
+- [**INTEGRATED CONTACT TRACING SYSTEM Data Privacy Statement**](#integrated-contact-tracing-system-data-privacy-statement)
 
 ## Proponents
 - Achilles C. Macunlay
@@ -171,3 +174,85 @@ For individual registrants sending logs **using feature phones**, they must send
 	<icts/DQR******/EDQR*******>
 
 [Back to Table of Contents](#table-of-contents)
+
+# INTEGRATED CONTACT TRACING SYSTEM Data Privacy Statement
+
+Welcome to the Integrated Contact Tracing System.
+
+This project is operated as a Thesis Project. The proponents are committed in protecting your privacy as a user of this system. We are exerting all our efforts in protecting your information from all kinds of unauthorized use.
+
+Our Data Privacy Statement governs your visit to our website and explains how we collect, safeguard, and disclose information that results from your use of our Service.
+
+## Collecting Information
+
+We collect and process your personal information only upon your consent whereby you agree to the collection and processing of your personal information in accordance with law and this Data Privacy Statement.
+
+## Personal Information that we may collect:
+
+In using our system, you voluntarily provide us with certain personal information that can be used to contact or identify you. Personal Information may include, but is not limited to:
+
+For Individuals:
+
+a. Full Name
+b. Sex
+c. Date of Birth
+d. Address
+e. Mobile Number
+f. Landline Number
+g. Email Address
+h. Safe Davao QR Code
+
+For Establishments:
+
+a. Establishment Name
+b. Establishment Address
+c. Establishment Branches
+d. Contact Details
+
+## Personal Information usage, storage, and sharing
+
+Your personal data can only be used by the proponents of this Thesis Project. The proponents shall ensure that your personal information shall only be used only for the sole purpose of contact-tracing or any technical modifications, updates, development related to the study.
+
+## System Communication
+
+The system will not use your email addresses, mobile numbers, and other contact details to communicate with you except for the purposes of authentication, confirmation, and contact-tracing.
+
+We will never ask you about any sensitive information except for the mentioned earlier.
+
+## User Responsibility
+
+a. Do not attempt to click on any link attached to an email. We only send emails for the purposes of authentication, confirmation, and contact-tracing.
+b. Do not provide any confidential information apart from registering from our system via our Mobile App, Website, and Text Messages.
+c. Do not provide any confidential information via outside links, suspicious emails, and any messages not coming from us or our system.
+
+## Data Retention
+
+We have put an appropriate physical, and technical controls to maintain confidentiality of your personal information.
+
+All personal data collected for this study is only available for a specific amount of time or until the purpose for their processing no longer exists.
+
+After this duration, the proponents should guarantee the users the disposal of their personal information in a secure manner to prevent further processing, unauthorized access, or disclosure to any other party.
+
+## Data Transfer
+
+We will treat your data safely and securely in accordance with this Data Privacy Statement and no transfer of any data must take place on any other organization outside Davao City, and the Philippines.
+
+## Your Legal Rights
+
+Under the [Data Privacy Act of 2012](https://www.officialgazette.gov.ph/images/uploads/20160825-IRR-RA-10173-data-privacy.pdf), you have the following rights:
+
+1.	Right to be informed – you may demand the details as to how your personal information is being processed or have been processed by us;
+2.	Right to access – upon written request, you may demand reasonable access to your personal information, which may include the contents of your processed personal information, the manner of processing, sources where they were obtained, recipients, and reason of disclosure;
+3.	Right to dispute – you may dispute inaccuracy or error in your personal information in our systems;
+4.	Right to object – you may suspend, withdraw, and remove your personal information in certain further processing, upon demand;
+5.	Right to data erasure – based on reasonable grounds, you have the right to suspend, withdraw or order blocking, removal or destruction of your personal data from our system or database, without prejudice to our continuous processing for health, legal, and regulatory purposes;
+6.	Right to secure data portability – you have the right to obtain from us your personal information in an electronic or structured format that is commonly used and allows for further use;
+7.	Right to be indemnified for damages – as data subject, you have very right to be indemnified for any damages sustained due to unauthorized use of your information;
+
+## Data Privacy Statement changes
+
+We may modify this Data Privacy Statement from time to time to align with relevant laws, regulations, and circumstances.
+
+It is advised to review this Data Privacy Statement periodically for any changes.
+
+Any changes to this Data Privacy Statement are effective when they are posted in our system.
