@@ -266,13 +266,13 @@ We will treat your data safely and securely in accordance with this Data Privacy
 
 Under the [Data Privacy Act of 2012](https://www.officialgazette.gov.ph/images/uploads/20160825-IRR-RA-10173-data-privacy.pdf), you have the following rights:
 
-1.	Right to be informed – you may demand the details as to how your personal information is being processed or have been processed by us;
-2.	Right to access – upon written request, you may demand reasonable access to your personal information, which may include the contents of your processed personal information, the manner of processing, sources where they were obtained, recipients, and reason of disclosure;
-3.	Right to dispute – you may dispute inaccuracy or error in your personal information in our systems;
-4.	Right to object – you may suspend, withdraw, and remove your personal information in certain further processing, upon demand;
-5.	Right to data erasure – based on reasonable grounds, you have the right to suspend, withdraw or order blocking, removal or destruction of your personal data from our system or database, without prejudice to our continuous processing for health, legal, and regulatory purposes;
-6.	Right to secure data portability – you have the right to obtain from us your personal information in an electronic or structured format that is commonly used and allows for further use;
-7.	Right to be indemnified for damages – as data subject, you have very right to be indemnified for any damages sustained due to unauthorized use of your information
+1.	**Right to be informed** – you may demand the details as to how your personal information is being processed or have been processed by us;
+2.	**Right to access** – upon written request, you may demand reasonable access to your personal information, which may include the contents of your processed personal information, the manner of processing, sources where they were obtained, recipients, and reason of disclosure;
+3.	**Right to dispute** – you may dispute inaccuracy or error in your personal information in our systems;
+4.	**Right to object** – you may suspend, withdraw, and remove your personal information in certain further processing, upon demand;
+5.	**Right to data erasure** – based on reasonable grounds, you have the right to suspend, withdraw or order blocking, removal or destruction of your personal data from our system or database, without prejudice to our continuous processing for health, legal, and regulatory purposes;
+6.	**Right to secure data portability** – you have the right to obtain from us your personal information in an electronic or structured format that is commonly used and allows for further use;
+7.	**Right to be indemnified for damages** – as data subject, you have very right to be indemnified for any damages sustained due to unauthorized use of your information
 
 [Back to Table of Contents](#table-of-contents)
 
