@@ -18,6 +18,9 @@ Here are ways to download the APK file:
 	- [3.1. Individual Registrants](#31-individual-registrants)
 	- [3.2. Establishment Registrants](#32-establishment-registrants)
 	- [3.3. Logs](#33-logs)
+		- [3.3.1. Individual Registrants Using the Application](#331-individual-registrants-using-the-application)
+		- [3.3.2. Establishment Registrants](#332-establishment-registrants)
+		- [3.3.3. Individual Registrants Using Feature Phones](#333-individual-registrants-using-feature-phones)
 - [4. Feature Phones](#4-feature-phones)
 	- [4.1. Individual Registration](#41-individual-registration)
 	- [4.2. Sending Logs](#42-sending-logs)
@@ -108,7 +111,7 @@ The Establishment Safe Davao ID is optional since not all establishments are req
 
 ### 3.3. Logs
 
-#### Case 1:
+#### 3.3.1. Individual Registrants Using the Application
 
 If the individual registrants using the Android application created the logs, the following data is sent to the SMS gateway:
 
@@ -117,7 +120,7 @@ If the individual registrants using the Android application created the logs, th
 - Log Timestamp
 - Establishment Safe Davao ID
 
-#### Case 2:
+#### 3.3.2. Establishment Registrants
 
 If an establishment registrant created the log, the following data is sent to the SMS gateway:
 
@@ -128,7 +131,7 @@ If an establishment registrant created the log, the following data is sent to th
 - Establishment Address (latitude and longitude)
 - Establishment Safe Davao ID (if available)
 
-#### Case 3:
+#### 3.3.3. Individual Registrants Using Feature Phones
 
 Lastly, if an individual registrant is using a feature phone, the following data is sent to the SMS gateway:
 
