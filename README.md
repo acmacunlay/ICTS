@@ -6,7 +6,7 @@ ICTS is a **PROPOSED** integrated digital contact tracing system that can operat
 
 ## Download
 
-You can directly download the APK file from this repository. If it does not work, you can try [here](https://drive.google.com/file/d/1fnTIC4MbXNz1P2WEt6sEtFyTTHdElJRb/view?usp=sharing).
+You can directly download the APK file from this repository or [**HERE**](https://drive.google.com/file/d/1fnTIC4MbXNz1P2WEt6sEtFyTTHdElJRb/view?usp=sharing) directly.
 
 ## Table of Contents
 - [1. Objectives](#1-objectives)
