@@ -4,7 +4,7 @@
 
 ICTS is a **PROPOSED** integrated digital contact tracing system that can operate with minimal physical contact, does not heavily rely on the internet for sending data, and can provide usable contact tracing information within a reasonable amount of time.
 
-*This system is **JUST A PROOF OF CONCEPT**. It is not intended to fully replace the current [existing contact tracing system in Davao City](https://profiles.safe-davao.com/) as of the moment in a massive scale.*
+*This system is **JUST A PROOF OF CONCEPT**. It is not intended to fully replace the current [existing contact tracing system in Davao City](https://profiles.safe-davao.com/) as of the moment on a massive scale.*
 
 ## Download
 
