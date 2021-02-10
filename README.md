@@ -12,18 +12,18 @@ Here are ways to download the APK file:
 2. Download the APK file directly from this repository (You can see the ICTS.apk file above).
 
 ## Table of Contents
-- [1. Objectives](#1-objectives)
-- [2. Scope and Limitations](#2-scope-and-limitations)
-- [3. Data Collection and Verification](#3-data-collection-and-verification)
-	- [3.1. Individual Registrants](#31-individual-registrants)
-	- [3.2. Establishment Registrants](#32-establishment-registrants)
-	- [3.3. Logs](#33-logs)
-		- [3.3.1. Individual Registrants Using the Application](#331-individual-registrants-using-the-application)
-		- [3.3.2. Establishment Registrants](#332-establishment-registrants)
-		- [3.3.3. Individual Registrants Using Feature Phones](#333-individual-registrants-using-feature-phones)
-- [4. Feature Phones](#4-feature-phones)
-	- [4.1. Individual Registration](#41-individual-registration)
-	- [4.2. Sending Logs](#42-sending-logs)
+[1. Objectives](#1-objectives)
+[2. Scope and Limitations](#2-scope-and-limitations)
+[3. Data Collection and Verification](#3-data-collection-and-verification)
+	[3.1. Individual Registrants](#31-individual-registrants)
+	[3.2. Establishment Registrants](#32-establishment-registrants)
+	[3.3. Logs](#33-logs)
+		[3.3.1. Individual Registrants Using the Application](#331-individual-registrants-using-the-application)
+		[3.3.2. Establishment Registrants](#332-establishment-registrants)
+		[3.3.3. Individual Registrants Using Feature Phones](#333-individual-registrants-using-feature-phones)
+[4. Feature Phones](#4-feature-phones)
+	[4.1. Individual Registration](#41-individual-registration)
+	[4.2. Sending Logs](#42-sending-logs)
 
 ## Proponents
 - Achilles C. Macunlay
