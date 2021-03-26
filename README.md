@@ -1,5 +1,10 @@
 # A PROPOSED Integrated Contact Tracing System (ICTS) in Davao City
 
+## NOTE: THIS REPOSITORY IS ARCHIVED. FOR QUESTIONS OR INQUIRIES, YOU MAY CONTACT THE PROPONENTS HERE:
+
+- [achillesmacunlay@gmail.com](achillesmacunlay@gmail.com)
+- [jonthaddeus@gmail.com](jonthaddeus@gmail.com)
+
 ## Description
 
 ICTS is a **PROPOSED** integrated digital contact tracing system that can operate with minimal physical contact, does not heavily rely on the internet for sending data, and can provide usable contact tracing information within a reasonable amount of time.
