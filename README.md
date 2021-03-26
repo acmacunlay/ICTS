@@ -2,8 +2,8 @@
 
 ## NOTE: THIS REPOSITORY IS ARCHIVED. FOR QUESTIONS OR INQUIRIES, YOU MAY CONTACT THE PROPONENTS HERE:
 
-- [achillesmacunlay@gmail.com](achillesmacunlay@gmail.com)
-- [jonthaddeus@gmail.com](jonthaddeus@gmail.com)
+- achillesmacunlay@gmail.com
+- jonthaddeus@gmail.com
 
 ## Description
 
